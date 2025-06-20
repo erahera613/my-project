@@ -1,2 +1,4 @@
 My project
 -Membuat web animasi orang terjun dari pesawat
+--Langkah awal:
+   1. Membuat HTML
